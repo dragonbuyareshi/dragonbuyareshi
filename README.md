@@ -31,7 +31,12 @@
 <!-- 🧠 PRIMUS ULTRA CARD -->
 <div align="center">
 
-<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="520" viewBox="0 0 900 520"
+     xmlns="http://www.w3.org/2000/svg"
+     shape-rendering="geometricPrecision"
+     text-rendering="optimizeLegibility"
+     overflow="visible">
+
   <defs>
     <!-- Main background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -40,25 +45,23 @@
       <stop offset="100%" style="stop-color:#050510"/>
     </linearGradient>
 
-    <!-- Cyan glow gradient -->
+    <!-- Glow gradients -->
     <radialGradient id="cyanGlow" cx="20%" cy="50%" r="60%">
       <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0.15"/>
       <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0"/>
     </radialGradient>
 
-    <!-- Purple glow gradient -->
     <radialGradient id="purpleGlow" cx="80%" cy="50%" r="60%">
       <stop offset="0%" style="stop-color:#7b2fff;stop-opacity:0.2"/>
       <stop offset="100%" style="stop-color:#7b2fff;stop-opacity:0"/>
     </radialGradient>
 
-    <!-- Red accent glow -->
     <radialGradient id="redGlow" cx="50%" cy="100%" r="40%">
       <stop offset="0%" style="stop-color:#ff003c;stop-opacity:0.12"/>
       <stop offset="100%" style="stop-color:#ff003c;stop-opacity:0"/>
     </radialGradient>
 
-    <!-- Card border gradient -->
+    <!-- Border -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0.8"/>
       <stop offset="30%" style="stop-color:#7b2fff;stop-opacity:0.6"/>
@@ -66,285 +69,85 @@
       <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0.8"/>
     </linearGradient>
 
-    <!-- Scan line gradient -->
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Scan -->
+    <linearGradient id="scanGrad">
       <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0"/>
       <stop offset="50%" style="stop-color:#00f7ff;stop-opacity:0.3"/>
       <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0"/>
     </linearGradient>
 
-    <!-- Mini card gradients -->
-    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a0025"/>
-      <stop offset="100%" style="stop-color:#150040"/>
-    </linearGradient>
-    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#001520"/>
-      <stop offset="100%" style="stop-color:#00253a"/>
-    </linearGradient>
-    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a0010"/>
-      <stop offset="100%" style="stop-color:#2d0020"/>
-    </linearGradient>
-    <linearGradient id="card4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0a1500"/>
-      <stop offset="100%" style="stop-color:#142500"/>
-    </linearGradient>
-    <linearGradient id="card5" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#150a00"/>
-      <stop offset="100%" style="stop-color:#251500"/>
-    </linearGradient>
+    <!-- Card gradients -->
+    <linearGradient id="card1"><stop offset="0%" stop-color="#0a0025"/><stop offset="100%" stop-color="#150040"/></linearGradient>
+    <linearGradient id="card2"><stop offset="0%" stop-color="#001520"/><stop offset="100%" stop-color="#00253a"/></linearGradient>
+    <linearGradient id="card3"><stop offset="0%" stop-color="#1a0010"/><stop offset="100%" stop-color="#2d0020"/></linearGradient>
+    <linearGradient id="card4"><stop offset="0%" stop-color="#0a1500"/><stop offset="100%" stop-color="#142500"/></linearGradient>
+    <linearGradient id="card5"><stop offset="0%" stop-color="#150a00"/><stop offset="100%" stop-color="#251500"/></linearGradient>
 
-    <!-- Pulse animation filter -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="strongGlow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="textGlow">
-      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+    <!-- Filters -->
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="textGlow"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 
-    <!-- Clip path for rounded card -->
+    <!-- Clip -->
     <clipPath id="cardClip">
-      <rect x="2" y="2" width="896" height="516" rx="22" ry="22"/>
+      <rect x="2" y="2" width="896" height="516" rx="22"/>
     </clipPath>
   </defs>
 
-  <!-- ═══ MAIN CARD BACKGROUND ═══ -->
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" fill="url(#bgGrad)"/>
+  <!-- Background -->
+  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#bgGrad)"/>
+  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#cyanGlow)"/>
+  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#purpleGlow)"/>
+  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#redGlow)"/>
 
-  <!-- Glow overlays -->
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" fill="url(#cyanGlow)"/>
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" fill="url(#purpleGlow)"/>
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" fill="url(#redGlow)"/>
-
-  <!-- Grid pattern background -->
-  <g clip-path="url(#cardClip)" opacity="0.06">
-    <line x1="0" y1="40" x2="900" y2="40" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="80" x2="900" y2="80" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="120" x2="900" y2="120" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="160" x2="900" y2="160" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="200" x2="900" y2="200" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="240" x2="900" y2="240" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="280" x2="900" y2="280" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="320" x2="900" y2="320" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="360" x2="900" y2="360" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="400" x2="900" y2="400" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="440" x2="900" y2="440" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="0" y1="480" x2="900" y2="480" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="60" y1="0" x2="60" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="120" y1="0" x2="120" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="180" y1="0" x2="180" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="240" y1="0" x2="240" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="300" y1="0" x2="300" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="360" y1="0" x2="360" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="420" y1="0" x2="420" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="480" y1="0" x2="480" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="540" y1="0" x2="540" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="600" y1="0" x2="600" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="660" y1="0" x2="660" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="720" y1="0" x2="720" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="780" y1="0" x2="780" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
-    <line x1="840" y1="0" x2="840" y2="520" stroke="#00f7ff" stroke-width="0.5"/>
+  <!-- Scan animation FIX -->
+  <g clip-path="url(#cardClip)">
+    <rect x="-300" y="2" width="300" height="516" fill="url(#scanGrad)">
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0;1200,0" dur="3s" repeatCount="indefinite"/>
+    </rect>
   </g>
 
-  <!-- Animated scan line -->
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" clip-path="url(#cardClip)">
-    <animate attributeName="opacity" values="1;1" dur="0.1s"/>
-  </rect>
-  <rect x="-900" y="2" width="300" height="516" fill="url(#scanGrad)" clip-path="url(#cardClip)">
-    <animateTransform attributeName="transform" type="translate" values="0,0;1800,0" dur="3s" repeatCount="indefinite"/>
-  </rect>
-
-  <!-- ═══ BORDER ═══ -->
-  <rect x="2" y="2" width="896" height="516" rx="22" ry="22" fill="none" stroke="url(#borderGrad)" stroke-width="2">
-    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="896" height="516" rx="22"
+        fill="none" stroke="url(#borderGrad)" stroke-width="2">
+    <animate attributeName="stroke-opacity"
+             values="0.6;1;0.6"
+             dur="4s"
+             repeatCount="indefinite"/>
   </rect>
 
-  <!-- Corner accents -->
-  <polyline points="2,42 2,2 42,2" fill="none" stroke="#00f7ff" stroke-width="3" filter="url(#glow)"/>
-  <polyline points="858,2 898,2 898,42" fill="none" stroke="#7b2fff" stroke-width="3" filter="url(#glow)"/>
-  <polyline points="2,478 2,518 42,518" fill="none" stroke="#ff003c" stroke-width="3" filter="url(#glow)"/>
-  <polyline points="858,518 898,518 898,478" fill="none" stroke="#00f7ff" stroke-width="3" filter="url(#glow)"/>
-
-  <!-- ═══ HEADER SECTION ═══ -->
-  <!-- Brain icon circle -->
-  <circle cx="450" cy="52" r="26" fill="none" stroke="#00f7ff" stroke-width="1.5" opacity="0.4">
-    <animate attributeName="r" values="26;30;26" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="450" cy="52" r="18" fill="#0d0030" stroke="#00f7ff" stroke-width="1.5" filter="url(#glow)"/>
+  <!-- HEADER -->
+  <circle cx="450" cy="52" r="18" fill="#0d0030" stroke="#00f7ff" filter="url(#glow)"/>
   <text x="450" y="58" text-anchor="middle" font-size="18" fill="#00f7ff">🧠</text>
 
-  <!-- PRIMUS title -->
-  <text x="450" y="100" text-anchor="middle" font-family="'Courier New', monospace" font-size="38" font-weight="900" letter-spacing="12" fill="#00f7ff" filter="url(#textGlow)">PRIMUS
-    <animate attributeName="opacity" values="1;0.85;1" dur="5s" repeatCount="indefinite"/>
-  </text>
+  <text x="450" y="100" text-anchor="middle"
+        font-family="monospace" font-size="38"
+        fill="#00f7ff" filter="url(#textGlow)">PRIMUS</text>
 
-  <!-- Subtitle -->
-  <text x="450" y="122" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" letter-spacing="3" fill="#aaaaff" opacity="0.8">ZERO-KNOWLEDGE · REAL-TIME · ADAPTIVE INTELLIGENCE SYSTEM</text>
+  <text x="450" y="122" text-anchor="middle"
+        font-family="monospace" font-size="11"
+        fill="#aaaaff">ZERO-KNOWLEDGE · REAL-TIME · ADAPTIVE</text>
 
-  <!-- Divider line -->
-  <line x1="80" y1="135" x2="820" y2="135" stroke="url(#borderGrad)" stroke-width="1" opacity="0.5"/>
+  <!-- FEATURE CARDS -->
+  <rect x="200" y="200" width="158" height="100" rx="14" fill="url(#card2)" stroke="#00f7ff"/>
+  <text x="279" y="244" text-anchor="middle" fill="#00f7ff">REAL-TIME</text>
 
-  <!-- ═══ TOP STAT PILLS ═══ -->
-  <!-- Pill 1: Models -->
-  <rect x="80" y="145" width="130" height="34" rx="17" fill="#0a0025" stroke="#7b2fff" stroke-width="1.5"/>
-  <text x="145" y="163" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff" letter-spacing="1">MODELS</text>
-  <text x="145" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#7b2fff" filter="url(#glow)">326</text>
+  <rect x="370" y="192" width="160" height="116" rx="14" fill="#050010" stroke="#ff003c"/>
+  <text x="450" y="250" text-anchor="middle" fill="#ff003c">SELF-EVOLVING</text>
 
-  <!-- Pill 2: Layers -->
-  <rect x="225" y="145" width="130" height="34" rx="17" fill="#001520" stroke="#00f7ff" stroke-width="1.5"/>
-  <text x="290" y="163" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff" letter-spacing="1">LAYERS</text>
-  <text x="290" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#00f7ff" filter="url(#glow)">5</text>
+  <rect x="542" y="200" width="158" height="100" rx="14" fill="url(#card4)" stroke="#00ff88"/>
+  <text x="621" y="244" text-anchor="middle" fill="#00ff88">MULTI-DOMAIN</text>
 
-  <!-- Pill 3: Benchmarks -->
-  <rect x="370" y="145" width="160" height="34" rx="17" fill="#0a0015" stroke="#ff003c" stroke-width="1.5"/>
-  <text x="450" y="163" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff" letter-spacing="1">BENCHMARKS</text>
-  <text x="450" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#ff003c" filter="url(#glow)">218</text>
-
-  <!-- Pill 4: Memory Types -->
-  <rect x="545" y="145" width="130" height="34" rx="17" fill="#001520" stroke="#00f7ff" stroke-width="1.5"/>
-  <text x="610" y="163" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff" letter-spacing="1">MEM TYPES</text>
-  <text x="610" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#00f7ff" filter="url(#glow)">9</text>
-
-  <!-- Pill 5: Domains -->
-  <rect x="690" y="145" width="130" height="34" rx="17" fill="#0a0025" stroke="#7b2fff" stroke-width="1.5"/>
-  <text x="755" y="163" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff" letter-spacing="1">DOMAINS</text>
-  <text x="755" y="175" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#7b2fff" filter="url(#glow)">20</text>
-
-  <!-- ═══ 5 FEATURE CARDS (middle row) ═══ -->
-
-  <!-- CARD 1: Zero-Shot -->
-  <rect x="30" y="200" width="158" height="100" rx="14" fill="url(#card1)" stroke="#7b2fff" stroke-width="1.5" opacity="0.95"/>
-  <rect x="30" y="200" width="158" height="4" rx="2" fill="#7b2fff" opacity="0.8"/>
-  <text x="109" y="224" text-anchor="middle" font-size="20">⚡</text>
-  <text x="109" y="244" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#7b2fff" letter-spacing="1">ZERO-SHOT</text>
-  <text x="109" y="260" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff">Learns without</text>
-  <text x="109" y="274" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff">any training data</text>
-  <text x="109" y="291" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#7b2fff" opacity="0.7">ADAPTATION</text>
-
-  <!-- CARD 2: Real-Time -->
-  <rect x="200" y="200" width="158" height="100" rx="14" fill="url(#card2)" stroke="#00f7ff" stroke-width="1.5" opacity="0.95"/>
-  <rect x="200" y="200" width="158" height="4" rx="2" fill="#00f7ff" opacity="0.8"/>
-  <text x="279" y="224" text-anchor="middle" font-size="20">🔥</text>
-  <text x="279" y="244" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00f7ff" letter-spacing="1">REAL-TIME</text>
-  <text x="279" y="260" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff">Instant adaptation</text>
-  <text x="279" y="274" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaaaff">to new environments</text>
-  <text x="279" y="291" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00f7ff" opacity="0.7">GENERALIZATION</text>
-
-  <!-- CARD 3: Self-Evolving (CENTER / HERO) -->
-  <rect x="370" y="192" width="160" height="116" rx="14" fill="#050010" stroke="#ff003c" stroke-width="2"/>
-  <rect x="370" y="192" width="160" height="5" rx="2.5" fill="#ff003c"/>
-  <!-- Pulse ring -->
-  <circle cx="450" cy="248" r="38" fill="none" stroke="#ff003c" stroke-width="0.8" opacity="0.3">
-    <animate attributeName="r" values="38;46;38" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.3;0;0.3" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="450" y="228" text-anchor="middle" font-size="22">🧬</text>
-  <text x="450" y="250" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#ff003c" letter-spacing="1" filter="url(#glow)">SELF-EVOLVING</text>
-  <text x="450" y="266" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffaaaa">Continuously rewrites</text>
-  <text x="450" y="280" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffaaaa">its own core logic</text>
-  <text x="450" y="298" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#ff003c" opacity="0.8">SELF-MODIFYING CORE</text>
-
-  <!-- CARD 4: Multi-Domain -->
-  <rect x="542" y="200" width="158" height="100" rx="14" fill="url(#card4)" stroke="#00ff88" stroke-width="1.5" opacity="0.95"/>
-  <rect x="542" y="200" width="158" height="4" rx="2" fill="#00ff88" opacity="0.8"/>
-  <text x="621" y="224" text-anchor="middle" font-size="20">🌍</text>
-  <text x="621" y="244" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00ff88" letter-spacing="1">MULTI-DOMAIN</text>
-  <text x="621" y="260" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaffaa">20 domains active</text>
-  <text x="621" y="274" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#aaffaa">simultaneously</text>
-  <text x="621" y="291" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00ff88" opacity="0.7">TRANSFER LEARNING</text>
-
-  <!-- CARD 5: Memory -->
-  <rect x="712" y="200" width="158" height="100" rx="14" fill="url(#card5)" stroke="#ffaa00" stroke-width="1.5" opacity="0.95"/>
-  <rect x="712" y="200" width="158" height="4" rx="2" fill="#ffaa00" opacity="0.8"/>
-  <text x="791" y="224" text-anchor="middle" font-size="20">💾</text>
-  <text x="791" y="244" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#ffaa00" letter-spacing="1">9-TYPE MEMORY</text>
-  <text x="791" y="260" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffd080">Episodic · Semantic</text>
-  <text x="791" y="274" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffd080">Procedural + more</text>
-  <text x="791" y="291" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#ffaa00" opacity="0.7">RETENTION SYSTEM</text>
-
-  <!-- ═══ LAYER ARCHITECTURE BAR ═══ -->
-  <line x1="30" y1="318" x2="870" y2="318" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-
-  <text x="450" y="336" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#888888" letter-spacing="3">LAYER ARCHITECTURE</text>
-
-  <!-- 5 Layer badges -->
-  <rect x="48" y="345" width="140" height="26" rx="8" fill="#0d001a" stroke="#7b2fff" stroke-width="1"/>
-  <text x="118" y="362" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#cc88ff">META LEARNING</text>
-
-  <rect x="200" y="345" width="140" height="26" rx="8" fill="#001a0d" stroke="#00ff88" stroke-width="1"/>
-  <text x="270" y="362" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#88ffcc">RETENTION</text>
-
-  <rect x="352" y="345" width="196" height="26" rx="8" fill="#1a0010" stroke="#ff003c" stroke-width="1.5"/>
-  <text x="450" y="362" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ff8888" letter-spacing="1">TRANSFER · WORLD</text>
-
-  <rect x="560" y="345" width="140" height="26" rx="8" fill="#1a0f00" stroke="#ffaa00" stroke-width="1"/>
-  <text x="630" y="362" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#ffd080">SYMBOLIC CORE</text>
-
-  <rect x="712" y="345" width="140" height="26" rx="8" fill="#001520" stroke="#00f7ff" stroke-width="1"/>
-  <text x="782" y="362" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#88eeff">END-TO-END</text>
-
-  <!-- ═══ PLATFORM CHIPS ROW ═══ -->
-  <line x1="30" y1="385" x2="870" y2="385" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
-
-  <text x="450" y="402" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#888888" letter-spacing="3">SIMULATION STACK</text>
-
-  <!-- Platform chips -->
-  <rect x="48" y="412" width="100" height="22" rx="11" fill="#001a00" stroke="#76B900" stroke-width="1"/>
-  <text x="98" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#76B900">ISAAC LAB</text>
-
-  <rect x="158" y="412" width="100" height="22" rx="11" fill="#001a00" stroke="#76B900" stroke-width="1"/>
-  <text x="208" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#76B900">OMNIVERSE</text>
-
-  <rect x="268" y="412" width="100" height="22" rx="11" fill="#001a00" stroke="#76B900" stroke-width="1"/>
-  <text x="318" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#76B900">GR00T</text>
-
-  <rect x="378" y="412" width="100" height="22" rx="11" fill="#001a00" stroke="#76B900" stroke-width="1"/>
-  <text x="428" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#76B900">COSMOS</text>
-
-  <rect x="488" y="412" width="100" height="22" rx="11" fill="#001a00" stroke="#76B900" stroke-width="1"/>
-  <text x="538" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#76B900">NEWTON</text>
-
-  <rect x="598" y="412" width="130" height="22" rx="11" fill="#1a1000" stroke="#FFD21E" stroke-width="1"/>
-  <text x="663" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#FFD21E">HUGGING FACE</text>
-
-  <rect x="738" y="412" width="110" height="22" rx="11" fill="#001520" stroke="#00f7ff" stroke-width="1"/>
-  <text x="793" y="427" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#00f7ff">MUJOCO</text>
-
-  <!-- ═══ FOOTER ═══ -->
-  <line x1="30" y1="447" x2="870" y2="447" stroke="url(#borderGrad)" stroke-width="1" opacity="0.4"/>
-
-  <!-- Status dot -->
+  <!-- FOOTER -->
   <circle cx="60" cy="470" r="5" fill="#00ff88">
     <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
   </circle>
-  <text x="72" y="474" font-family="'Courier New', monospace" font-size="10" fill="#00ff88" letter-spacing="1">ONLINE</text>
+  <text x="72" y="474" fill="#00ff88" font-size="10">ONLINE</text>
 
-  <text x="450" y="474" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#888888" letter-spacing="2">END-TO-END AUTONOMOUS PHYSICAL AI SYSTEM</text>
-
-  <text x="840" y="474" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#444466">v∞.0</text>
-
-  <!-- Bottom tagline -->
-  <text x="450" y="500" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#aaaaff" opacity="0.6" letter-spacing="1">Learning is slow.  Adaptation is instant.</text>
 </svg>
 
 </div>
+ 
 
 
 ---
