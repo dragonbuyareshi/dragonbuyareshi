@@ -34,52 +34,45 @@
 
 ### Zero-Knowledge Real-Time Learning AI Agent
 
-`ZERO-SHOT` · `REAL-TIME` · `SELF-EVOLVING`
+<table align="center">
+<tr>
 
+<td align="center" width="50%">
+
+### INTRODUCTION
+---
+
+PRIMUS is a **zero-knowledge real-time learning AI agent**  
+that learns without prior data, adapts instantly,  
+and continuously evolves its internal architecture.
+
+It operates as a **self-modifying intelligence system**  
+capable of handling non-stationary environments  
+across multiple domains simultaneously.
+
+</td>
+
+<td align="center" width="50%">
+
+### DOMAINS
+---
+
+![Robotics](https://img.shields.io/badge/Robotics-00f7ff?style=flat-square)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-7b2fff?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-ff003c?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00f7ff?style=flat-square)
+![Reinforcement Learning](https://img.shields.io/badge/RL-7b2fff?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-ff003c?style=flat-square)
+![Simulation](https://img.shields.io/badge/Simulation-00f7ff?style=flat-square)
+![Scientific AI](https://img.shields.io/badge/Scientific%20AI-7b2fff?style=flat-square)
+![Edge AI](https://img.shields.io/badge/Edge%20AI-ff003c?style=flat-square)
+![AGI Research](https://img.shields.io/badge/AGI-00f7ff?style=flat-square)
+
+</td>
+
+</tr>
+</table>
 </p>
-
----
-
-## Overview
-
-**PRIMUS** is a next-generation AI system designed to **learn without prior data, adapt instantly in real-time, and continuously evolve its internal architecture**.
-
-Unlike traditional models that depend on static training, PRIMUS operates as a **self-modifying intelligence system** capable of handling **non-stationary environments across multiple domains simultaneously**.
-
----
-
-## Core Capabilities
-
-- **Zero-Knowledge Learning**  
-  Learns without pretraining data using dynamic adaptation strategies.
-
-- **Real-Time Adaptation**  
-  Instantly adjusts to new environments and tasks.
-
-- **Self-Evolving Architecture**  
-  Continuously rewrites and optimizes its own internal structure.
-
-- **Multi-Domain Intelligence**  
-  Operates across **20+ domains** simultaneously.
-
-- **Advanced Memory System**  
-  Utilizes **9 memory types** (episodic, semantic, procedural, etc.)
-
----
-
-## Architecture
-
-```txt
-META LEARNING
-      ↓
-RETENTION SYSTEM
-      ↓
-TRANSFER + WORLD MODEL
-      ↓
-SYMBOLIC CORE
-      ↓
-END-TO-END EXECUTION
-```
 ---
 
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
