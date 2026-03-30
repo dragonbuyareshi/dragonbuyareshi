@@ -40,7 +40,7 @@
 <td align="center" width="50%">
 
 ### INTRODUCTION
----
+
 
 PRIMUS is a **zero-knowledge real-time learning AI agent**  
 that learns without prior data, adapts instantly,  
@@ -55,7 +55,7 @@ across multiple domains simultaneously.
 <td align="center" width="50%">
 
 ### DOMAINS
----
+
 
 ![Robotics](https://img.shields.io/badge/Robotics-00f7ff?style=flat-square)
 ![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-7b2fff?style=flat-square)
@@ -73,7 +73,7 @@ across multiple domains simultaneously.
 </tr>
 </table>
 </p>
----
+
 
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
 <div align="center">
@@ -116,8 +116,6 @@ across multiple domains simultaneously.
 <div align="center">
 
 ## LANGUAGE ARSENAL
-
-> *Click any technology to visit its official site*
 
 <!-- ROW 1 -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
