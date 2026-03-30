@@ -40,7 +40,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **PRIMUS** is a next-generation AI system designed to **learn without prior data, adapt instantly in real-time, and continuously evolve its internal architecture**.
 
@@ -48,26 +48,26 @@ Unlike traditional models that depend on static training, PRIMUS operates as a *
 
 ---
 
-## ⚡ Core Capabilities
+## Core Capabilities
 
-- ⚡ **Zero-Knowledge Learning**  
+- **Zero-Knowledge Learning**  
   Learns without pretraining data using dynamic adaptation strategies.
 
-- 🔥 **Real-Time Adaptation**  
+- **Real-Time Adaptation**  
   Instantly adjusts to new environments and tasks.
 
-- 🧬 **Self-Evolving Architecture**  
+- **Self-Evolving Architecture**  
   Continuously rewrites and optimizes its own internal structure.
 
-- 🌍 **Multi-Domain Intelligence**  
+- **Multi-Domain Intelligence**  
   Operates across **20+ domains** simultaneously.
 
-- 💾 **Advanced Memory System**  
+- **Advanced Memory System**  
   Utilizes **9 memory types** (episodic, semantic, procedural, etc.)
 
 ---
 
-## 🧩 Architecture
+## Architecture
 
 ```txt
 META LEARNING
@@ -85,7 +85,7 @@ END-TO-END EXECUTION
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
 <div align="center">
 
-## 📊 GITHUB BATTLE STATS
+## GITHUB BATTLE STATS
 
 <table>
 <tr>
@@ -122,7 +122,7 @@ END-TO-END EXECUTION
 <!-- TECH UNIVERSE — LANGUAGES WITH LOGOS + LINKS -->
 <div align="center">
 
-## 💻 LANGUAGE ARSENAL
+## LANGUAGE ARSENAL
 
 > *Click any technology to visit its official site*
 
@@ -172,7 +172,7 @@ END-TO-END EXECUTION
 
 <div align="center">
 
-## 🌐 WEB & GRAPHICS MASTERY
+## WEB & GRAPHICS MASTERY
 
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
 [![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)](https://www.khronos.org/webgl)
@@ -196,7 +196,7 @@ END-TO-END EXECUTION
 
 <div align="center">
 
-## 🗄️ DATABASE INFRASTRUCTURE
+## DATABASE INFRASTRUCTURE
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
@@ -213,7 +213,7 @@ END-TO-END EXECUTION
 
 <div align="center">
 
-## ⚙️ DEVOPS & TOOLS
+## DEVOPS & TOOLS
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
@@ -224,7 +224,7 @@ END-TO-END EXECUTION
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://djangoproject.com)
 
-## 🤖 AI / ML STACK
+## AI / ML STACK
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
@@ -235,7 +235,7 @@ END-TO-END EXECUTION
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 [![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)](https://ray.io)
 
-## ☁️ CLOUD PLATFORMS
+## CLOUD PLATFORMS
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
@@ -251,7 +251,7 @@ END-TO-END EXECUTION
 <!-- MULTI-DOMAIN CARDS -->
 <div align="center">
 
-## ⚙️ MULTI-DOMAIN SUPREMACY
+## MULTI-DOMAIN SUPREMACY
 
 </div>
 
@@ -260,7 +260,7 @@ END-TO-END EXECUTION
 
 <td align="center" width="25%">
 
-### 🤖 AI RESEARCH
+### AI RESEARCH
 ---
 ![Meta-Learning](https://img.shields.io/badge/Meta--Learning-00f7ff?style=flat-square&logoColor=white)
 ![Dreamer RL](https://img.shields.io/badge/Dreamer%20RL-7b2fff?style=flat-square)
@@ -275,7 +275,7 @@ END-TO-END EXECUTION
 
 <td align="center" width="25%">
 
-### 🦾 ROBOTICS
+### ROBOTICS
 ---
 ![ROS2](https://img.shields.io/badge/ROS%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![SLAM](https://img.shields.io/badge/SLAM-00f7ff?style=flat-square)
@@ -288,7 +288,7 @@ END-TO-END EXECUTION
 
 <td align="center" width="25%">
 
-### 🎮 GAME DEV
+### GAME DEV
 ---
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
@@ -301,7 +301,7 @@ END-TO-END EXECUTION
 
 <td align="center" width="25%">
 
-### 🔐 CYBERSECURITY
+### CYBERSECURITY
 ---
 ![PenTesting](https://img.shields.io/badge/Pen%20Testing-ff003c?style=flat-square)
 ![Reverse Eng](https://img.shields.io/badge/Reverse%20Engineering-7b2fff?style=flat-square)
@@ -320,13 +320,13 @@ END-TO-END EXECUTION
 <!-- NVIDIA SIMULATION STACK -->
 <div align="center">
 
-## ⚡ SIMULATION DOMINANCE
+## SIMULATION DOMINANCE
 
 <table>
 <tr>
 <td align="center">
 
-### 🟢 NVIDIA STACK
+### NVIDIA STACK
 
 [![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/isaac-lab)
 [![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/isaac-sim)
@@ -340,7 +340,7 @@ END-TO-END EXECUTION
 </td>
 <td align="center">
 
-### 🌍 GLOBAL SIMULATION
+### GLOBAL SIMULATION
 
 [![MuJoCo](https://img.shields.io/badge/MuJoCo-D00000?style=for-the-badge&logo=google&logoColor=white)](https://mujoco.org)
 [![DM Control](https://img.shields.io/badge/DM%20Control-0078D4?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com/google-deepmind/dm_control)
@@ -361,7 +361,7 @@ END-TO-END EXECUTION
 <!-- FINAL LAW + QUOTE -->
 <div align="center">
 
-## ⚔️ FINAL LAW
+## FINAL LAW
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
@@ -385,7 +385,7 @@ END-TO-END EXECUTION
 <!-- ANIMATED 3D CONTRIBUTION SNAKE -->
 <div align="center">
 
-## 🌀 NEURAL ACTIVITY MATRIX
+## NEURAL ACTIVITY MATRIX
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
