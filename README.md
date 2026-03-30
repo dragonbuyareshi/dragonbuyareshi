@@ -28,23 +28,80 @@
 </div>
 
 ---
-
-<!-- PRIMUS SECTION -->
+<!-- 🔥 PRIMUS ULTRA CARD -->
 <div align="center">
 
-# 🧠 PRIMUS — Zero-Knowledge Real-Time Learning AI Agent
+<div style="
+width: 90%;
+max-width: 900px;
+padding: 30px;
+border-radius: 20px;
+background: linear-gradient(135deg, #0d0d0d, #1a0040);
+box-shadow: 0 0 40px rgba(120,0,255,0.4);
+color: white;
+font-family: 'Segoe UI', sans-serif;
+position: relative;
+overflow: hidden;
+animation: glow 4s infinite alternate;
+">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0040&height=2&width=100%25"/>
+<!-- Animated Gradient Overlay -->
+<div style="
+position:absolute;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background: linear-gradient(120deg, transparent, rgba(120,0,255,0.2), transparent);
+animation: scan 3s linear infinite;
+"></div>
 
-```ansi
-[1;36m╔══════════════════════════════════════════════════════════╗[0m
-[1;36m║[0m  [1;32m+[0m  Learns without data          [1;33m→[0m  Zero-shot adaptation  [1;36m║[0m
-[1;36m║[0m  [1;32m+[0m  Adapts in real-time          [1;33m→[0m  Infinite generalization  [1;36m║[0m
-[1;36m║[0m  [1;32m+[0m  Evolves continuously         [1;33m→[0m  Self-modifying core  [1;36m║[0m
-[1;36m╚══════════════════════════════════════════════════════════╝[0m
-```
+<h1 align="center">🧠 PRIMUS</h1>
+<h3 align="center">Zero-Knowledge Real-Time Learning AI Agent</h3>
+
+<hr style="border:1px solid rgba(255,255,255,0.1);">
+
+<p align="center">
+⚡ Learns without data → <b>Zero-shot adaptation</b><br>
+🔥 Adapts in real-time → <b>Infinite generalization</b><br>
+🧬 Evolves continuously → <b>Self-modifying core</b>
+</p>
+
+<hr style="border:1px solid rgba(255,255,255,0.1);">
+
+<p align="center">
+🚀 <b>326 Models</b> · 🧠 <b>5 Layers</b> · 📊 <b>218 Benchmarks</b><br>
+💾 <b>9 Memory Types</b> · 🌍 <b>20 Domains</b>
+</p>
+
+<p align="center">
+⚙️ Isaac Lab · Omniverse · GR00T · Cosmos · Newton · HuggingFace
+</p>
+
+<hr style="border:1px solid rgba(255,255,255,0.1);">
+
+<p align="center" style="font-size:14px; opacity:0.8;">
+Meta → Retention → Transfer → World → Symbolic  
+<br>
+End-to-End Autonomous Physical AI System
+</p>
 
 </div>
+
+</div>
+
+<!-- ✨ ANIMATIONS -->
+<style>
+@keyframes glow {
+  0% { box-shadow: 0 0 20px rgba(120,0,255,0.3); }
+  100% { box-shadow: 0 0 60px rgba(120,0,255,0.8); }
+}
+
+@keyframes scan {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+</style>
 
 ---
 
@@ -319,34 +376,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- SYSTEM PHILOSOPHY -->
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      ## 🧠 SYSTEM PHILOSOPHY
-      AI        →   Weapon
-      Code      →   Discipline
-      Systems   →   Intelligence
-      PRIMUS    →   Evolution 
-    </td>
-  </tr>
-</table>
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║    AI        →   Weapon                                ║
-║    Code      →   Discipline                            ║
-║    Systems   →   Intelligence                          ║
-║    PRIMUS    →   Evolution                             ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
 
 </div>
 
