@@ -72,29 +72,29 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=16&include_all_commits=true&count_private=true&rank_icon=percentile"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[(https://github.com/dragonbuyareshi)]&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=16&include_all_commits=true&count_private=true&rank_icon=percentile"/>
 
 </td>
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&sideNums=ffffff&sideLabels=aaaaff&dates=888888&border_radius=16"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[(https://github.com/dragonbuyareshi)]&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&sideNums=ffffff&sideLabels=aaaaff&dates=888888&border_radius=16"/>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&text_color=ffffff&border_radius=16&langs_count=12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[(https://github.com/dragonbuyareshi)]&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&text_color=ffffff&border_radius=16&langs_count=12"/>
 
 </td>
 </tr>
 </table>
 
 <!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+<img src="https://github-profile-trophy.vercel.app/?username=[(https://github.com/dragonbuyareshi)]&theme=radical&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
 <!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0d14&color=00f7ff&line=7b2fff&point=ff003c&area=true&hide_border=true&area_color=7b2fff20&radius=16"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=[(https://github.com/dragonbuyareshi)]&bg_color=0d0d14&color=00f7ff&line=7b2fff&point=ff003c&area=true&hide_border=true&area_color=7b2fff20&radius=16"/>
 
 </div>
 
