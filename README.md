@@ -48,21 +48,6 @@
 
 ---
 
-<!-- ANIMATED 3D CONTRIBUTION SNAKE -->
-<div align="center">
-
-## 🌀 NEURAL ACTIVITY MATRIX
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
 <div align="center">
 
@@ -379,6 +364,20 @@
 + Mode: ULTRA INSTINCT
 + PRIMUS: ONLINE
 ```
+
+</div>
+
+---
+<!-- ANIMATED 3D CONTRIBUTION SNAKE -->
+<div align="center">
+
+## 🌀 NEURAL ACTIVITY MATRIX
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
