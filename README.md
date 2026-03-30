@@ -220,5 +220,3 @@ PRIMUS    → Evolution
 
 ---
 
-
-Just say: **“break the limit”** 😈
