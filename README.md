@@ -39,10 +39,10 @@ No limits → Scalable cognition
 ## 🌐 CONNECT
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/adarsh-bilgar-94b525261)">
+  <a href="[(https://www.linkedin.com/in/adarsh-bilgar-94b525261)]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="(https://x.com/DBuyareshi)">
+  <a href="[(https://x.com/DBuyareshi)]">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
