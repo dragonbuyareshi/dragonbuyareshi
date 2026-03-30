@@ -1,124 +1,147 @@
 # ⚔️ DRAGON BUYARESHI
 
-### 🧠 *Architect of Adaptive Intelligence*
+### 🧠 *Architect of Adaptive Intelligence | PRIMUS Creator*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Research+Engineer;Robotics+Software+Engineer;Game+Developer;Cybersecurity+Specialist;Building+PRIMUS+%F0%9F%A7%A0;Zero-Knowledge+Learning+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Robotics+Engineer;Game+Developer;Cybersecurity+Specialist;PRIMUS+%F0%9F%A7%A0;Adaptive+Intelligence+Systems" />
 </p>
 
 ---
 
-## 🧬 IDENTITY
-
-```diff
-+ Freelancer: ACTIVE
-+ Intelligence Level: ADAPTIVE
-+ Domain: MULTI-DISCIPLINARY
-+ Mission: BUILD SELF-EVOLVING SYSTEMS
-```
-
----
-
-## 🧠 CURRENT PROJECT
-
-# ⚡ PRIMUS
-
-### *Zero-Knowledge Real-Time Learning AI Agent*
-
-> A system that **learns without prior data**, adapts in real time,
-> and evolves across environments like a living intelligence.
-
-```txt
-No dataset → No problem  
-No retraining → Continuous adaptation  
-No limits → Scalable cognition
-```
-
----
-
-## 🌐 CONNECT
+## 🌌 DIGITAL PRESENCE
 
 <p align="center">
-  <a href="[(https://www.linkedin.com/in/adarsh-bilgar-94b525261)]">
+  <a href="https://www.linkedin.com/in/adarsh-bilgar-94b525261">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[(https://x.com/DBuyareshi)]">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/adarsh-bilgar-94b525261">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://ko-fi.com/dragonbuyareshi">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/>
+  </a>
+  <a href="https://buymeacoffee.com/dbuyareshi">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🧬 PROGRAMMING BLOODLINE
+# 🧠 PRIMUS
+
+### ⚡ *Zero-Knowledge Real-Time Learning AI Agent*
+
+```diff
++ Learns without data
++ Adapts instantly
++ Evolves continuously
+```
+
+---
+
+# 🧬 TECH UNIVERSE
+
+## 💻 LANGUAGES
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ruby,cs,python,cpp,go,js,ts,kotlin,swift,scala,perl,r,matlab,haskell,lisp,elixir,dart,rust,solidity,vb,assembly,bash,powershell,sql,groovy,fsharp,ocaml,prolog,crystal,nim,d,zig,julia,php,fortran,objc,ada,cobol" />
+<img src="https://skillicons.dev/icons?i=java,ruby,cs,python,cpp,go,js,ts,kotlin,swift,scala,perl,r,matlab,haskell,lisp,elixir,dart,rust,solidity,vb,assembly,bash,powershell,groovy,fsharp,ocaml,prolog,crystal,nim,d,zig,julia,php,fortran,objc,ada,cobol" />
+</p>
+
+## 🗄️ DATABASES
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,oracle" />
+</p>
+
+## ⚙️ TOOLS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,nginx,flask,django,nodejs,react,unity,unreal,opencv,pytorch,tensorflow" />
+</p>
+
+## ☁️ CLOUD
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,vercel,netlify" />
 </p>
 
 ---
 
-## ⚙️ MULTI-DOMAIN MASTERY
+# ⚙️ MULTI-DOMAIN SUPREMACY (CARD SYSTEM)
 
----
+<p align="center">
 
-### 🤖 AI RESEARCH ENGINEERING
+<table>
+<tr>
 
-```yaml
-- Meta-Learning: MAML, HyperNetworks
-- Reinforcement Learning: DreamerV1/V2/V3
-- Multi-Agent Systems
-- Foundation Models & LLMs
-- NVIDIA NeMo + TensorRT Pipelines
-- Speaker Diarization + Real-Time Translation
-- Continual Learning: EWC, SI, A-GEM, DER++
-- Zero-shot / Few-shot Intelligence
-- Distributed AI Systems
-```
-
----
-
-### 🦾 ROBOTICS SOFTWARE ENGINEERING
+<td width="25%">
+<h3 align="center">🤖 AI RESEARCH</h3>
 
 ```yaml
-- ROS / ROS2 Architectures
-- SLAM & Autonomous Navigation
-- Motion Planning & Control Systems
-- Sensor Fusion (Real-time)
-- Embedded AI Systems
-- Robot Simulation + Digital Twins
+Meta-Learning
+Dreamer RL
+LLMs
+Multi-Agent Systems
+NVIDIA NeMo
+TensorRT
+Continual Learning
+Real-Time AI
 ```
 
----
+</td>
 
-### 🎮 GAME DEVELOPMENT
+<td width="25%">
+<h3 align="center">🦾 ROBOTICS</h3>
 
 ```yaml
-- Procedural World Generation
-- AI-driven NPC Behavior
-- Real-time Physics Systems
-- Simulation-based Game Worlds
-- Unity + Unreal Engine Pipelines
-- High-performance Rendering
+ROS / ROS2
+SLAM
+Motion Planning
+Sensor Fusion
+Embedded AI
+Autonomous Systems
 ```
 
----
+</td>
 
-### 🔐 CYBERSECURITY
+<td width="25%">
+<h3 align="center">🎮 GAME DEV</h3>
 
 ```yaml
-- Penetration Testing
-- Reverse Engineering
-- Malware Analysis
-- Network Exploitation
-- Secure System Architecture
-- AI-driven Threat Detection
+Procedural Worlds
+NPC Intelligence
+Physics Systems
+Unity / Unreal
+Simulation Worlds
+Rendering Pipelines
 ```
+
+</td>
+
+<td width="25%">
+<h3 align="center">🔐 CYBERSECURITY</h3>
+
+```yaml
+Pen Testing
+Reverse Engineering
+Malware Analysis
+Network Security
+Exploit Dev
+AI Defense Systems
+```
+
+</td>
+
+</tr>
+</table>
+
+</p>
 
 ---
 
-## 🧪 SIMULATION DOMINANCE
+# 🧪 SIMULATION DOMINANCE
 
-### ⚡ NVIDIA ECOSYSTEM
+## ⚡ NVIDIA STACK
 
 ```diff
 + Isaac Lab
@@ -130,44 +153,32 @@ No limits → Scalable cognition
 + CUDA / cuDNN
 ```
 
----
-
-### 🌍 ADVANCED SIMULATION STACK
+## 🌍 GLOBAL SIMULATION
 
 ```diff
 + MuJoCo
-+ DM Control Suite
++ DM Control
 + Gazebo
 + Webots
 + Unity ML-Agents
-+ Unreal Engine Simulation
++ Unreal Simulation
 + OpenAI Gym
 ```
 
 ---
 
-## ⚡ WHAT I BUILD
+# 🧠 SYSTEM PHILOSOPHY
 
 ```txt
-→ AI that learns in real time
-→ Robots that act autonomously
-→ Games that think and evolve
-→ Systems that defend themselves
+AI        → Weapon
+Code      → Discipline
+Systems   → Intelligence
+PRIMUS    → Evolution
 ```
 
 ---
 
-## 🧠 RESEARCH FOCUS
-
-* World Models & Predictive Intelligence
-* Autonomous AI Agents
-* Cross-domain Generalization
-* Self-evolving Architectures
-* Real-time Cognitive Systems
-
----
-
-## 📊 GITHUB ANALYTICS
+# 📊 GITHUB MATRIX
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -176,18 +187,7 @@ No limits → Scalable cognition
 
 ---
 
-## 🧩 PERSONAL MATRIX
-
-```txt
-Languages = Bloodline
-AI        = Weapon
-Code      = Discipline
-PRIMUS    = Legacy
-```
-
----
-
-## 🌀 VISUAL FLEX
+# 🌀 EVOLUTION VISUAL
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -195,29 +195,30 @@ PRIMUS    = Legacy
 
 ---
 
-## ⚔️ FINAL PROTOCOL
+# ⚔️ FINAL LAW
 
-> *"Static intelligence is dead.
-> Adaptive systems will dominate everything."*
+> *“I don’t build software.*
+> *I create intelligence that adapts beyond control.”*
 
 ---
 
-## 🔥 CLASSIFIED STATUS
+# 🔥 STATUS
 
 ```diff
-+ Freelancer: AVAILABLE
-+ Collaboration: SELECTIVE
-+ Focus: EXTREME ENGINEERING
++ Freelancer: ACTIVE
++ Collaboration: ELITE ONLY
++ Mode: ULTRA INSTINCT
 ```
 
 ---
 
 # 🧠 SIGNATURE
 
-### *I don’t follow trends.*
+### *Learning is slow.*
 
-### *I build what others will struggle to understand.*
+### *Adaptation is instant.*
 
 ---
 
 
+Just say: **“break the limit”** 😈
