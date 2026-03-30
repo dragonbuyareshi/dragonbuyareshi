@@ -28,128 +28,58 @@
 </div>
 
 ---
-<!-- 🧠 PRIMUS ULTRA CARD -->
-<div align="center">
+<p align="center">
 
-<svg width="900" height="520" viewBox="0 0 900 520"
-     xmlns="http://www.w3.org/2000/svg"
-     shape-rendering="geometricPrecision"
-     text-rendering="optimizeLegibility"
-     overflow="visible">
+# PRIMUS
 
-  <defs>
-    <!-- Main background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#050510"/>
-      <stop offset="50%" style="stop-color:#0d0030"/>
-      <stop offset="100%" style="stop-color:#050510"/>
-    </linearGradient>
+### Zero-Knowledge Real-Time Learning AI Agent
 
-    <!-- Glow gradients -->
-    <radialGradient id="cyanGlow" cx="20%" cy="50%" r="60%">
-      <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0.15"/>
-      <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0"/>
-    </radialGradient>
+`ZERO-SHOT` · `REAL-TIME` · `SELF-EVOLVING`
 
-    <radialGradient id="purpleGlow" cx="80%" cy="50%" r="60%">
-      <stop offset="0%" style="stop-color:#7b2fff;stop-opacity:0.2"/>
-      <stop offset="100%" style="stop-color:#7b2fff;stop-opacity:0"/>
-    </radialGradient>
+</p>
 
-    <radialGradient id="redGlow" cx="50%" cy="100%" r="40%">
-      <stop offset="0%" style="stop-color:#ff003c;stop-opacity:0.12"/>
-      <stop offset="100%" style="stop-color:#ff003c;stop-opacity:0"/>
-    </radialGradient>
+---
 
-    <!-- Border -->
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0.8"/>
-      <stop offset="30%" style="stop-color:#7b2fff;stop-opacity:0.6"/>
-      <stop offset="70%" style="stop-color:#ff003c;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0.8"/>
-    </linearGradient>
+## 🧠 Overview
 
-    <!-- Scan -->
-    <linearGradient id="scanGrad">
-      <stop offset="0%" style="stop-color:#00f7ff;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#00f7ff;stop-opacity:0.3"/>
-      <stop offset="100%" style="stop-color:#00f7ff;stop-opacity:0"/>
-    </linearGradient>
+**PRIMUS** is a next-generation AI system designed to **learn without prior data, adapt instantly in real-time, and continuously evolve its internal architecture**.
 
-    <!-- Card gradients -->
-    <linearGradient id="card1"><stop offset="0%" stop-color="#0a0025"/><stop offset="100%" stop-color="#150040"/></linearGradient>
-    <linearGradient id="card2"><stop offset="0%" stop-color="#001520"/><stop offset="100%" stop-color="#00253a"/></linearGradient>
-    <linearGradient id="card3"><stop offset="0%" stop-color="#1a0010"/><stop offset="100%" stop-color="#2d0020"/></linearGradient>
-    <linearGradient id="card4"><stop offset="0%" stop-color="#0a1500"/><stop offset="100%" stop-color="#142500"/></linearGradient>
-    <linearGradient id="card5"><stop offset="0%" stop-color="#150a00"/><stop offset="100%" stop-color="#251500"/></linearGradient>
+Unlike traditional models that depend on static training, PRIMUS operates as a **self-modifying intelligence system** capable of handling **non-stationary environments across multiple domains simultaneously**.
 
-    <!-- Filters -->
-    <filter id="glow"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <filter id="textGlow"><feGaussianBlur stdDeviation="3"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+---
 
-    <!-- Clip -->
-    <clipPath id="cardClip">
-      <rect x="2" y="2" width="896" height="516" rx="22"/>
-    </clipPath>
-  </defs>
+## ⚡ Core Capabilities
 
-  <!-- Background -->
-  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#bgGrad)"/>
-  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#cyanGlow)"/>
-  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#purpleGlow)"/>
-  <rect x="2" y="2" width="896" height="516" rx="22" fill="url(#redGlow)"/>
+- ⚡ **Zero-Knowledge Learning**  
+  Learns without pretraining data using dynamic adaptation strategies.
 
-  <!-- Scan animation FIX -->
-  <g clip-path="url(#cardClip)">
-    <rect x="-300" y="2" width="300" height="516" fill="url(#scanGrad)">
-      <animateTransform attributeName="transform" type="translate"
-        values="0,0;1200,0" dur="3s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+- 🔥 **Real-Time Adaptation**  
+  Instantly adjusts to new environments and tasks.
 
-  <!-- Border -->
-  <rect x="2" y="2" width="896" height="516" rx="22"
-        fill="none" stroke="url(#borderGrad)" stroke-width="2">
-    <animate attributeName="stroke-opacity"
-             values="0.6;1;0.6"
-             dur="4s"
-             repeatCount="indefinite"/>
-  </rect>
+- 🧬 **Self-Evolving Architecture**  
+  Continuously rewrites and optimizes its own internal structure.
 
-  <!-- HEADER -->
-  <circle cx="450" cy="52" r="18" fill="#0d0030" stroke="#00f7ff" filter="url(#glow)"/>
-  <text x="450" y="58" text-anchor="middle" font-size="18" fill="#00f7ff">🧠</text>
+- 🌍 **Multi-Domain Intelligence**  
+  Operates across **20+ domains** simultaneously.
 
-  <text x="450" y="100" text-anchor="middle"
-        font-family="monospace" font-size="38"
-        fill="#00f7ff" filter="url(#textGlow)">PRIMUS</text>
+- 💾 **Advanced Memory System**  
+  Utilizes **9 memory types** (episodic, semantic, procedural, etc.)
 
-  <text x="450" y="122" text-anchor="middle"
-        font-family="monospace" font-size="11"
-        fill="#aaaaff">ZERO-KNOWLEDGE · REAL-TIME · ADAPTIVE</text>
+---
 
-  <!-- FEATURE CARDS -->
-  <rect x="200" y="200" width="158" height="100" rx="14" fill="url(#card2)" stroke="#00f7ff"/>
-  <text x="279" y="244" text-anchor="middle" fill="#00f7ff">REAL-TIME</text>
+## 🧩 Architecture
 
-  <rect x="370" y="192" width="160" height="116" rx="14" fill="#050010" stroke="#ff003c"/>
-  <text x="450" y="250" text-anchor="middle" fill="#ff003c">SELF-EVOLVING</text>
-
-  <rect x="542" y="200" width="158" height="100" rx="14" fill="url(#card4)" stroke="#00ff88"/>
-  <text x="621" y="244" text-anchor="middle" fill="#00ff88">MULTI-DOMAIN</text>
-
-  <!-- FOOTER -->
-  <circle cx="60" cy="470" r="5" fill="#00ff88">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="72" y="474" fill="#00ff88" font-size="10">ONLINE</text>
-
-</svg>
-
-</div>
- 
-
-
+```txt
+META LEARNING
+      ↓
+RETENTION SYSTEM
+      ↓
+TRANSFER + WORLD MODEL
+      ↓
+SYMBOLIC CORE
+      ↓
+END-TO-END EXECUTION
+```
 ---
 
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
