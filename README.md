@@ -327,9 +327,17 @@
 <!-- SYSTEM PHILOSOPHY -->
 <div align="center">
 
-## 🧠 SYSTEM PHILOSOPHY
-
-```
+<table>
+  <tr>
+    <td align="center">
+      ## 🧠 SYSTEM PHILOSOPHY
+      AI        →   Weapon
+      Code      →   Discipline
+      Systems   →   Intelligence
+      PRIMUS    →   Evolution 
+    </td>
+  </tr>
+</table>
 ╔════════════════════════════════════════════════════════╗
 ║                                                        ║
 ║    AI        →   Weapon                                ║
