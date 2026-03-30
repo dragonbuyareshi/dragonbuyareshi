@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DRAGON%20BUYARESHI&fontSize=70&color=0:00f7ff,50:7b2fff,100:ff003c&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=Architect%20of%20Adaptive%20Intelligence%20%7C%20PRIMUS%20Creator&descSize=18&descAlignY=75&descColor=aaaaff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DRAGON%20BUYARESHI&fontSize=70&color=0:00f7ff,50:7b2fff,100:ff003c&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Robotics+Engineer;Game+Developer;Cybersecurity+Specialist;PRIMUS+%F0%9F%A7%A0;Adaptive+Intelligence+Systems" /> </p>
