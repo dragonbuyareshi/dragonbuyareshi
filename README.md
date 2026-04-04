@@ -68,7 +68,7 @@ Any Robotics or World Models Team open to collaborate
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
 <div align="center">
 
-# ⚔️ DRAGON // GITHUB BATTLE MATRIX ⚔️
+# GITHUB STATS
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,100:7b2fff&height=120&section=header&text=SYSTEM%20STATUS&fontColor=00f7ff&fontSize=28&animation=fadeIn"/>
 
@@ -91,48 +91,8 @@ Any Robotics or World Models Team open to collaborate
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonbuyareshi&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&border_radius=20"/>
 
 </td>
-
-<!-- RIGHT PANEL -->
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonbuyareshi&theme=radical"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dragonbuyareshi&theme=radical&utcOffset=5.5"/>
-
-</td>
-
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ CORE LANGUAGES MATRIX ⚡
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonbuyareshi&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&text_color=ffffff&border_radius=20&langs_count=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 ACHIEVEMENT PROTOCOL
-
-<img src="https://github-profile-trophy.vercel.app/?username=dragonbuyareshi&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:0d0d14&height=120&section=footer"/>
 
 </div>
 
