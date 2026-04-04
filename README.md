@@ -30,25 +30,18 @@
 ---
 <p align="center">
 
-# PRIMUS
-
-### Zero-Knowledge Real-Time Learning AI Agent
+### PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
 
 <table align="center">
 <tr>
 
 <td align="center" width="50%">
 
-### INTRODUCTION
 
+* **PRIMUS (Zero-Knowledge Real-Time Learning AI Agent)** is a unified cognitive AI framework
+* Designed to learn, retain, reason, and adapt continuously - mirroring how the human brain works
+<img width="1472" height="103" alt="image" src="https://github.com/user-attachments/assets/660ed022-cf3c-43a6-8e6b-c02054d61059" />
 
-PRIMUS is a **zero-knowledge real-time learning AI agent**  
-that learns without prior data, adapts instantly,  
-and continuously evolves its internal architecture.
-
-It operates as a **self-modifying intelligence system**  
-capable of handling non-stationary environments  
-across multiple domains simultaneously.
 
 ![Autotelic-RL](https://img.shields.io/badge/Autotelic--RL-00f7ff?style=flat-square)
 ![Meta-RL](https://img.shields.io/badge/Meta--RL-7b2fff?style=flat-square)
