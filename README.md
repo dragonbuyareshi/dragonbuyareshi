@@ -64,20 +64,10 @@ Any Robotics or World Models Team open to collaborate
 </table>
 </p>
 
-
-<!-- GITHUB STATS — UNIQUE LAYOUT -->
-<div align="center">
-
-# GITHUB STATS
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,100:7b2fff&height=120&section=header&text=SYSTEM%20STATUS&fontColor=00f7ff&fontSize=28&animation=fadeIn"/>
-
-</div>
-
 ---
 
 <div align="center">
-
+# GITHUB STATS
 <table width="100%">
 <tr>
 
