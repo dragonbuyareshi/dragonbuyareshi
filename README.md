@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DRAGON%20BUYARESHI&fontSize=70&color=0:00f7ff,50:7b2fff,100:ff003c&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- TYPING SVG -->
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Robotics+Engineer;Game+Developer;Cybersecurity+Specialist;PRIMUS+%F0%9F%A7%A0;Adaptive+Intelligence+Systems" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Robotics+Engineer" /> </p>
 
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=dragonbuyareshi&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/dragonbuyareshi?style=for-the-badge&color=7b2fff&labelColor=0d0d0d&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/STATUS-ULTRA%20INSTINCT-ff003c?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-ff003c?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
@@ -50,24 +50,22 @@ It operates as a **self-modifying intelligence system**
 capable of handling non-stationary environments  
 across multiple domains simultaneously.
 
-</td>
-
-<td align="center" width="50%">
-
-### DOMAINS
-
-
-![Robotics](https://img.shields.io/badge/Robotics-00f7ff?style=flat-square)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-7b2fff?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-ff003c?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00f7ff?style=flat-square)
-![Reinforcement Learning](https://img.shields.io/badge/RL-7b2fff?style=flat-square)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-ff003c?style=flat-square)
-![Simulation](https://img.shields.io/badge/Simulation-00f7ff?style=flat-square)
-![Scientific AI](https://img.shields.io/badge/Scientific%20AI-7b2fff?style=flat-square)
-![Edge AI](https://img.shields.io/badge/Edge%20AI-ff003c?style=flat-square)
-![AGI Research](https://img.shields.io/badge/AGI-00f7ff?style=flat-square)
-
+![Autotelic-RL](https://img.shields.io/badge/Autotelic--RL-00f7ff?style=flat-square)
+![Meta-RL](https://img.shields.io/badge/Meta--RL-7b2fff?style=flat-square)
+![Continual Learning](https://img.shields.io/badge/Continual%20Learning-ff003c?style=flat-square)
+![FSL](https://img.shields.io/badge/Few--Shot--Learning-00f7ff?style=flat-square)
+![ZSL](https://img.shields.io/badge/Zero--Shot--Learning-7b2fff?style=flat-square)
+![OSL](https://img.shields.io/badge/One--Shot--Learning-00f7ff?style=flat-square)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-ff003c?style=flat-square)
+![Online Learning](https://img.shields.io/badge/Online%20Learning-00f7ff?style=flat-square)
+![Active Learning](https://img.shields.io/badge/Active%20Learning-7b2fff?style=flat-square)
+![Domain Adaptation](https://img.shields.io/badge/Domain%20Adaptation-ff003c?style=flat-square)
+![Efficient Adaptation](https://img.shields.io/badge/Efficient%20Adaptation-00f7ff?style=flat-square)
+![World Models](https://img.shields.io/badge/World%20Models-00f7ff?style=flat-square)
+![Neuro-Symbolic](https://img.shields.io/badge/Neuro--Symbolic-7b2fff?style=flat-square)
+![Kinetic Learning](https://img.shields.io/badge/Kinetic%20Learning-ff003c?style=flat-square)
+![Self-Supervised](https://img.shields.io/badge/Self--Supervised-7b2fff?style=flat-square)
+![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff003c?style=flat-square)
 </td>
 
 </tr>
