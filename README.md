@@ -28,7 +28,7 @@
 </div>
 
 ---
-<p align="center">
+<dev align="center">
 
 # PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
 
@@ -62,7 +62,7 @@
 
 </tr>
 </table>
-</p>
+</dev>
 
 ---
 
