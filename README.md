@@ -1,23 +1,17 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=DRAGON%20BUYARESHI&fontSize=70&color=0:00f7ff,50:7b2fff,100:ff003c&stroke=00f7ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn"/>
 
-<!-- TYPING SVG -->
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Robotics+Engineer" /> </p>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
 <img src="https://komarev.com/ghpvc/?username=dragonbuyareshi&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/dragonbuyareshi?style=for-the-badge&color=7b2fff&labelColor=0d0d0d&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-ff003c?style=for-the-badge&labelColor=0d0d0d"/>
 
 </div>
 
----
-
-<!-- SOCIAL LINKS -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-bilgar-94b525261)
@@ -27,12 +21,12 @@
 
 </div>
 
----
-<dev>
-<p align="center">
+<dev align="center">
+  
 # PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
-</p>
+
 <table align="center">
+  
 <tr>
 
 <td align="center" width="50%">
@@ -61,38 +55,36 @@
 </td>
 
 </tr>
-</table>
-</dev>
 
----
+</table>
+
+</dev>
 
 <div align="center">
   
 # GITHUB STATS
+
 <table width="100%">
+  
 <tr>
+  
 <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dragonbuyareshi&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=20&include_all_commits=true&count_private=true"/>
 
-<br><br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonbuyareshi&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&border_radius=20"/>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
----
-
-<!-- TECH UNIVERSE — LANGUAGES WITH LOGOS + LINKS -->
 <div align="center">
 
 ## LANGUAGE ARSENAL
-
-<!-- ROW 1 -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://rust-lang.org)
@@ -102,7 +94,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 
-<!-- ROW 2 -->
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-lang.org)
 [![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp)
@@ -112,7 +103,6 @@
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
 
-<!-- ROW 3 -->
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://r-project.org)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/products/matlab.html)
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)](https://perl.org)
@@ -122,7 +112,6 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://gnu.org/software/bash)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/en-us/powershell)
 
-<!-- ROW 4 -->
 [![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)](https://groovy-lang.org)
 [![F%23](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)](https://fsharp.org)
 [![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org)
@@ -133,8 +122,6 @@
 [![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org)
 
 </div>
-
----
 
 <div align="center">
 
@@ -158,8 +145,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## DATABASE INFRASTRUCTURE
@@ -174,8 +159,6 @@
 [![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com)
 
 </div>
-
----
 
 <div align="center">
 
@@ -212,9 +195,6 @@
 
 </div>
 
----
-
-<!-- MULTI-DOMAIN CARDS -->
 <div align="center">
 
 ## MULTI-DOMAIN SUPREMACY
@@ -222,12 +202,13 @@
 </div>
 
 <table align="center">
+  
 <tr>
 
 <td align="center" width="25%">
 
 ### AI RESEARCH
----
+
 ![Meta-Learning](https://img.shields.io/badge/Meta--Learning-00f7ff?style=flat-square&logoColor=white)
 ![Dreamer RL](https://img.shields.io/badge/Dreamer%20RL-7b2fff?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-ff003c?style=flat-square)
@@ -242,7 +223,7 @@
 <td align="center" width="25%">
 
 ### ROBOTICS
----
+
 ![ROS2](https://img.shields.io/badge/ROS%2F%20ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![SLAM](https://img.shields.io/badge/SLAM-00f7ff?style=flat-square)
 ![Motion Planning](https://img.shields.io/badge/Motion%20Planning-7b2fff?style=flat-square)
@@ -255,7 +236,7 @@
 <td align="center" width="25%">
 
 ### GAME DEV
----
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Procedural](https://img.shields.io/badge/Procedural%20Worlds-7b2fff?style=flat-square)
@@ -268,7 +249,7 @@
 <td align="center" width="25%">
 
 ### CYBERSECURITY
----
+
 ![PenTesting](https://img.shields.io/badge/Pen%20Testing-ff003c?style=flat-square)
 ![Reverse Eng](https://img.shields.io/badge/Reverse%20Engineering-7b2fff?style=flat-square)
 ![Malware](https://img.shields.io/badge/Malware%20Analysis-00f7ff?style=flat-square)
@@ -279,17 +260,17 @@
 </td>
 
 </tr>
+
 </table>
 
----
-
-<!-- NVIDIA SIMULATION STACK -->
 <div align="center">
 
 ## SIMULATION DOMINANCE
 
 <table>
+  
 <tr>
+  
 <td align="center">
 
 ### NVIDIA STACK
@@ -304,6 +285,7 @@
 [![cuDNN](https://img.shields.io/badge/cuDNN-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cudnn)
 
 </td>
+
 <td align="center">
 
 ### GLOBAL SIMULATION
@@ -317,25 +299,17 @@
 [![Unreal Sim](https://img.shields.io/badge/Unreal%20Simulation-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://unrealengine.com)
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
 
----
-
-<!-- FINAL LAW + QUOTE -->
 <div align="center">
-
-## FINAL LAW
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-
-<br/><br/>
 
 > **"Gravity kept us on earth. Distance keeps us from the stars. But nothing is keeping AI from becoming physical, except the work left to do. From models to motors, from weights to watts.Building what comes next."**
 
-<br/>
 
 ```diff
 + Freelancer: ACTIVE
@@ -346,25 +320,4 @@
 
 </div>
 
----
-<!-- ANIMATED 3D CONTRIBUTION SNAKE -->
-<div align="center">
-
-## NEURAL ACTIVITY MATRIX
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-<!-- WAVE FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7b2fff,100:ff003c&height=120&section=footer"/>
-
-<div align="center">
-
-</div>
