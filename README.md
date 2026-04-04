@@ -37,6 +37,7 @@
 
 <td align="center" width="50%">
 * **PRIMUS (Zero-Knowledge Real-Time Learning AI Agent)** is a unified cognitive AI framework
+  
 * Designed to learn, retain, reason, and adapt continuously - mirroring how the human brain works
 
 ![Autotelic-RL](https://img.shields.io/badge/Autotelic--RL-00f7ff?style=flat-square)
