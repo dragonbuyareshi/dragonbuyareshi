@@ -30,7 +30,7 @@
 ---
 <p align="center">
 
-### PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
+# PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
 
 <table align="center">
 <tr>
@@ -57,7 +57,7 @@
 ![Self-Supervised](https://img.shields.io/badge/Self--Supervised-7b2fff?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff003c?style=flat-square)
 
-Any Robotics or World Models Team open to collaborate
+## **Any Robotics or World Models Team open to collaborate**
 </td>
 
 </tr>
@@ -71,8 +71,6 @@ Any Robotics or World Models Team open to collaborate
 # GITHUB STATS
 <table width="100%">
 <tr>
-
-<!-- LEFT PANEL -->
 <td width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dragonbuyareshi&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=20&include_all_commits=true&count_private=true"/>
