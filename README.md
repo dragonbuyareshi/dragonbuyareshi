@@ -28,10 +28,10 @@
 </div>
 
 ---
-<dev align="center">
-
+<dev>
+<p align="center">
 # PRIMUS : Zero-Knowledge Real-Time Learning AI Agent
-
+</p>
 <table align="center">
 <tr>
 
