@@ -51,8 +51,8 @@
 ![Self-Supervised](https://img.shields.io/badge/Self--Supervised-7b2fff?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff003c?style=flat-square)
 
-**Seeking collaboration with teams in robotics, world models, and physical AI to build and deploy cutting-edge intelligent systems through our Primus project.
-**
+**Seeking collaboration with teams in robotics, world models, and physical AI to build and deploy cutting-edge intelligent systems through our Primus project**
+
 </td>
 
 </tr>
