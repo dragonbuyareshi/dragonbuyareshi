@@ -36,7 +36,6 @@
 <tr>
 
 <td align="center" width="50%">
-<img width="1472" height="103" alt="image" src="https://github.com/user-attachments/assets/660ed022-cf3c-43a6-8e6b-c02054d61059" />
 * **PRIMUS (Zero-Knowledge Real-Time Learning AI Agent)** is a unified cognitive AI framework
 * Designed to learn, retain, reason, and adapt continuously - mirroring how the human brain works
 
@@ -56,6 +55,8 @@
 ![Kinetic Learning](https://img.shields.io/badge/Kinetic%20Learning-ff003c?style=flat-square)
 ![Self-Supervised](https://img.shields.io/badge/Self--Supervised-7b2fff?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff003c?style=flat-square)
+
+Any Robotics or World Models Team open to collaborate
 </td>
 
 </tr>
