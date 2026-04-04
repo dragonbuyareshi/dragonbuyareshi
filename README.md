@@ -38,7 +38,6 @@
 <td align="center" width="50%">
   
 * **PRIMUS (Zero-Knowledge Real-Time Learning AI Agent)** is a unified cognitive AI framework
-  
 * Designed to learn, retain, reason, and adapt continuously - mirroring how the human brain works
 
 ![Autotelic-RL](https://img.shields.io/badge/Autotelic--RL-00f7ff?style=flat-square)
@@ -69,32 +68,71 @@ Any Robotics or World Models Team open to collaborate
 <!-- GITHUB STATS — UNIQUE LAYOUT -->
 <div align="center">
 
-## GITHUB BATTLE STATS
+# ⚔️ DRAGON // GITHUB BATTLE MATRIX ⚔️
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,100:7b2fff&height=120&section=header&text=SYSTEM%20STATUS&fontColor=00f7ff&fontSize=28&animation=fadeIn"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<table width="100%">
 <tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dragonbuyareshi&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=16&include_all_commits=true&count_private=true&rank_icon=percentile"/>
+<!-- LEFT PANEL -->
+<td width="50%">
 
-</td>
-<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dragonbuyareshi&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&icon_color=7b2fff&text_color=ffffff&border_radius=20&include_all_commits=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonbuyareshi&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&sideNums=ffffff&sideLabels=aaaaff&dates=888888&border_radius=16"/>
+<br><br>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonbuyareshi&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&text_color=ffffff&border_radius=16&langs_count=12"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonbuyareshi&theme=radical&hide_border=true&background=0d0d14&ring=00f7ff&fire=ff003c&currStreakLabel=7b2fff&border_radius=20"/>
 
 </td>
+
+<!-- RIGHT PANEL -->
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dragonbuyareshi&theme=radical"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dragonbuyareshi&theme=radical&utcOffset=5.5"/>
+
+</td>
+
 </tr>
 </table>
 
-<!-- TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=dragonbuyareshi&theme=radical&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ CORE LANGUAGES MATRIX ⚡
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonbuyareshi&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=00f7ff&text_color=ffffff&border_radius=20&langs_count=10"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENT PROTOCOL
+
+<img src="https://github-profile-trophy.vercel.app/?username=dragonbuyareshi&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,100:0d0d14&height=120&section=footer"/>
 
 </div>
 
