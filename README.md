@@ -96,9 +96,6 @@ Any Robotics or World Models Team open to collaborate
 <!-- TROPHY CASE -->
 <img src="https://github-profile-trophy.vercel.app/?username=dragonbuyareshi&theme=radical&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 
-<!-- ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dragonbuyareshi&bg_color=0d0d14&color=00f7ff&line=7b2fff&point=ff003c&area=true&hide_border=true&area_color=7b2fff20&radius=16"/>
-
 </div>
 
 ---
