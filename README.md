@@ -349,8 +349,7 @@ Any Robotics or World Models Team open to collaborate
 
 <br/><br/>
 
-> **"I don't build software.**
-> **I create intelligence that adapts beyond control."**
+> **"Gravity kept us on earth. Distance keeps us from the stars. But nothing is keeping AI from becoming physical, except the work left to do. From models to motors, from weights to watts.Building what comes next."**
 
 <br/>
 
@@ -383,7 +382,5 @@ Any Robotics or World Models Team open to collaborate
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:7b2fff,100:ff003c&height=120&section=footer"/>
 
 <div align="center">
-
-*Learning is slow. Adaptation is instant.*
 
 </div>
