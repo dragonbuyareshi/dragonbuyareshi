@@ -51,7 +51,8 @@
 ![Self-Supervised](https://img.shields.io/badge/Self--Supervised-7b2fff?style=flat-square)
 ![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-ff003c?style=flat-square)
 
-**Any Robotics or World Models Team open to collaborate**
+**Seeking collaboration with teams in robotics, world models, and physical AI to build and deploy cutting-edge intelligent systems through our Primus project.
+**
 </td>
 
 </tr>
@@ -310,13 +311,6 @@
 
 > **"Gravity kept us on earth. Distance keeps us from the stars. But nothing is keeping AI from becoming physical, except the work left to do. From models to motors, from weights to watts.Building what comes next."**
 
-
-```diff
-+ Freelancer: ACTIVE
-+ Collaboration: ELITE ONLY
-+ Mode: ULTRA INSTINCT
-+ PRIMUS: ONLINE
-```
 
 </div>
 
